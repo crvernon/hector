@@ -32,3 +32,6 @@
 # pkgdown config and output
 ^inst/_pkgdown.yml
 ^docs/
+
+# codecov
+^.covrignore$

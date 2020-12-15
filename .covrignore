@@ -1,0 +1,3 @@
+# ignore logger tests due to CI path recognition failure when running `covr`
+#  these tests do pass via the rcmd.yml action on all OS and R implementations
+tests/testthat/test_logger.R
