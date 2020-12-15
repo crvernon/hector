@@ -1,0 +1,2 @@
+ignore:
+    - "tests/testthat/test_logger.R"
